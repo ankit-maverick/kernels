@@ -1,5 +1,5 @@
 /**
- * Kernel for Nodes of same graph.
+ * Kernel for Node Similarity within same graph.
  */
 package com.kernel;
 

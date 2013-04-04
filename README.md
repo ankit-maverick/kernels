@@ -15,7 +15,7 @@ Description
 #### Main file
 
 `file - Main.java`
-Main class, for testing similarity between two nodes/graphs. You can change it to test for different data. Code has been commented for node similarity testing.
+Main class, for testing similarity between two nodes/graphs. You can change it to test for different data. Code has been commented for testing of Node Similarity kernel.
 	
 
 #### Data Used (test folder):

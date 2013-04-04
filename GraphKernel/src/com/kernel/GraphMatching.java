@@ -1,5 +1,5 @@
 /**
- * Kernel for Graph
+ * Kernel for Graph Similarity
  */
 package com.kernel;
 
